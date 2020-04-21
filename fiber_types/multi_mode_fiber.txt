@@ -1,0 +1,16 @@
+Fibre Core - 50 um diameter
+Fibre Cladding - 125 um diameter
+Used for short distances.
+Cheaper than Single Mode Fibre
+
+Large Core allows multiple modes of light to propagate.
+Allows High data to pass as number of light reflections increases.
+High Dispersion and attenuation rate over distance
+
+Due to its large core, some of the light rays that make up the digital pulse may travel a 
+direct route, whereas others zigzag as they bounce off the cladding. 
+These alternate paths cause the different groups of light rays, referred to as modes, 
+to arrive separately at the receiving point. The pulse, an aggregate of different modes, 
+begins to spread out, losing its well-defined shape. The need to leave spacing between 
+pulses to prevent overlapping limits the amount of information that can be sent. 
+This type of fiber is best suited for transmission over short distances.

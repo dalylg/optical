@@ -1,0 +1,6 @@
+1 bit = 10**0
+1 kilobit = 10**3
+1 megabit = 10**6
+1 gigabit = 10**9
+1 terabit = 10**12
+

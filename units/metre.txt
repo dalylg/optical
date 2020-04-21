@@ -1,0 +1,12 @@
+1 metre m = 10**0
+1 millimetre mm = 10**-3
+1 micrometre µm = 10**-6
+1 nanometre nm = 10**-9
+
+
+Speed of light is 300,000,000 m per second
+
+DWDM C band is 1550 nm
+
+FIBRE core is 9 um in diameter.
+

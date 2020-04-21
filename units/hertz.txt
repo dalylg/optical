@@ -1,0 +1,14 @@
+1 hertz = 1 wave cycle per second
+
+1 kilokertz = 10**3 cycle per second
+
+1 megahertz = 10**6 cycle per second
+
+1 gegahertz = 10**9 cycle per second
+
+1 terahertz = 10**12 cycle per second
+
+
+25 GHz channel spacing for up to 160 channel operation in modern DWDM systems.
+
+193.10 THz (1,552.52 nm)

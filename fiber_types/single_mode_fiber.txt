@@ -1,0 +1,9 @@
+Fibre Core is 9 um
+Cladding is 125 um
+Used for Longhaul communications.
+
+More expensive than MultiMode Fibre
+
+Single Mode fiber optic cable has a small diametral core that allows only one mode of light to propagate. 
+Because of this, the number of light reflections created as the light passes through the core decreases, 
+lowering attenuation and creating the ability for the signal to travel further.

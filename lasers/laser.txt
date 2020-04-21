@@ -1,0 +1,49 @@
+Light
+Amplification by
+Stimulated
+Emissions of
+Radiation
+
+-----------------------
+
+Lasers can be monochromatic - use only one color / wavelength. Unlike light bulbs.
+
+Lasers produce Coherence - coherrant light - in phase and polorized in same direction.
+Meaning all the photons can focus all their energies together on a very small target area.
+This means a laser can produce high power output over long distances.
+
+How a Laser works?
+
+1: Stimulated Absorption
+   Electrons live in Probality Density Clouds, they have wave-like behaviour, the orbitals
+   represent the Average Distance they live from the Neuleus.
+   Electrons are usually found in a low energy State, It minimises energy at this state, easier to live.
+   Electrons can be excited by some sort of external means.
+   The Pump is a a photon of light that can sacrifice itself by pushing an Electron to an Excited Energy State.
+   The photon must the exact amount of Energy needed to push the elctron to the Excited State.
+   
+2: Spontaneous Emissions
+   After 100 nanoseconds the Electron will fall as it is unstable.   
+   When falling the electron releases Photon equal in Energy to the difference of the Excited 
+   and Ground State.
+
+
+3: Stimulated Emission
+   Some Elements allow for Metastable States, which allow for longer lifetime of the excited Electron.
+   When the Excited Electron drops to the Metastable State, the differnce in energy is dissipated in Heat.
+   When a Photon collides with the Electron in the Metastable State, as Photons like to be in pairs,
+   the collision Produces an exact duplicute of the entering Photon, in Wavelength, Coherence, Direction
+   and Polorization.
+   An initial Spontaneous Photon Emission from an Electron is needed, that first Photon can then collide
+   The Pumping photon has always a higher Energy Level than the Photon that is being lased.
+   Meaning the wavelength of the Pumping photon is shorted than the lased photon.
+   You need more Electons in the MetaStable(Excited) State then in the Ground State, 
+   to cause the Avalanche.
+   This creates a Population Inversion.
+
+4: Laser Medium
+   Laser Medium is Placed in a very short Cavity that has mirros on both sides.
+   One side of the cavity is a Partial Mirror to allow the laser beam out. 
+
+   with another Excited Electron.
+   

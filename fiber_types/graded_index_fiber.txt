@@ -1,0 +1,7 @@
+
+Contains a core in which the refractive index diminishes gradually from the center axis out toward 
+the cladding. The higher refractive index at the center makes the light rays moving down the axis 
+advance more slowly than those near the cladding. Due to the graded index, light in the core curves 
+helically rather than zigzag off the cladding, reducing its travel distance. The shortened path and 
+the higher speed allow light at the periphery to arrive at a receiver at about the same time as the 
+slow but straight rays in the core axis. The result: digital pulse suffers less dispersion.

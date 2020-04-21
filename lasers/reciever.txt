@@ -1,0 +1,2 @@
+Unlike a Laser, Reciever recieves discrete wavelengths, Demux must filter correct
+Wavelength to the RX.
